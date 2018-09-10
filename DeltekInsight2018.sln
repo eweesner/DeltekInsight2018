@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtremeProgramming", "XtremeProgramming\XtremeProgramming.csproj", "{24149ADE-AEE5-4DEF-84E7-7081082DF151}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E036972-FBEA-4AB0-A598-CA5CCA56DD8B}"
+	ProjectSection(SolutionItems) = preProject
+		DeltekAssemblies\Deltek.Framework.API.Server.dll = DeltekAssemblies\Deltek.Framework.API.Server.dll
+		DeltekAssemblies\Deltek.Vision.WorkflowAPI.Server.dll = DeltekAssemblies\Deltek.Vision.WorkflowAPI.Server.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
